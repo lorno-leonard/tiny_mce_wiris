@@ -1,0 +1,12 @@
+{
+    "name": "root/tiny_mce_wiris",
+    "authors": [
+        {
+            "name": "Leonard Laput",
+            "email": "online.lorno@gmail.com"
+        }
+    ],
+    "require": {
+        "vlucas/phpdotenv": "^2.4"
+    }
+}
