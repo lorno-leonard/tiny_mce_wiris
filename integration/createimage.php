@@ -1,4 +1,5 @@
 <?php
+header("Access-Control-Allow-Origin: *");
 // ${license.statement}
 
 require_once 'pluginbuilder.php';
